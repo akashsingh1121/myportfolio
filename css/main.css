@@ -1709,7 +1709,8 @@ header {
 		margin-bottom: 3rem;
 	}
 	.button-section [class*="col-"] .button:first-child {
-		margin-right: 0;
+		/* margin-right: 0; */
+		width: 67%;
 	}
 }
 @media only screen and (max-width: 600px) {
